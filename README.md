@@ -1,2 +1,2 @@
 # rust100
-Some programs I wrote to learn Rust.
+Programs I wrote to learn Rust.

@@ -1,0 +1,1 @@
+/Users/jdw_ops/Documents/rust100/simple_calculator/simple_calculator/simple_calculator/target/debug/simple_calculator: /Users/jdw_ops/Documents/rust100/simple_calculator/simple_calculator/simple_calculator/src/main.rs

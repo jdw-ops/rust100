@@ -2,9 +2,13 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hello_world/hello_world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_calculator/simple_calculator/simple_calculator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/temperature_converter/temperature_converter/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello_world/hello_world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_calculator/simple_calculator/simple_calculator/target" />
       <excludeFolder url="file://$MODULE_DIR$/temperature_converter/temperature_converter/target" />
     </content>
     <orderEntry type="inheritedJdk" />
